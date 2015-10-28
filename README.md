@@ -24,13 +24,13 @@
 
 3. Create a span with the message "2016 projection" and set it to a variable called message.
 
-4. Place the message in the Success bar in the Reports panel. It should only appear when the user hovers over the Success bar. *nextAll could be useful here.*
+4. Place the message in the Success bar in the Reports panel. It should only appear when the user hovers over the Success bar. <br> *nextAll could be useful here.*
 ![Projection](images/projection.jpg)
 
 5. In the table that contains Visits, ROI, and Source, delete the last two rows that contain no data.
 ![Table Rows](images/tablerows.jpg)
 
-6. When clicked, the individual buttons in the blue button group (Service, Cloud, Tools, and Help) should lose their icon and the text should turn grey. *.find() is helpful here.*
+6. When clicked, the individual buttons in the blue button group (Service, Cloud, Tools, and Help) should lose their icon and the text should turn grey. <br> *.find() is helpful here.*
 ![Button Click](images/buttonclick.jpg)
 
 7. The same buttons should disappear when they are double clicked.
