@@ -53,6 +53,7 @@ $("input[type = 'text']").each(function(){
 
 
 
+
 });
 
 /*<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100" style="width: 72%">
